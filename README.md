@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Fernanda
 
-**`Desenvolvedora FullStack`**
+**`Data Science`**
 
-Me chamo Fernanda e sou apaixonada por tecnologia, agora estudante de ciencia de dados, gostaria de unir os mundos contabeis e financeiro junto com a tecnologia.
+Hi, I'm Fernanda, a technology enthusiast currently studying Data Science. I'm passionate about combining the worlds of accounting and finance with technology to drive innovation and solutions.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
